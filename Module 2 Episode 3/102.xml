@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="000style.xsl"?>
+<teiCorpus>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digitised and Encoded copy of Negro Slavery by Zachary MacAulay</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Transcribed from digital copy available from Recovered Histories at
+                    http://www.recoveredhistories.org/pamphlet1.php?page=1&amp;orderby=MaxID&amp;catid=66</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Negro Slavery; or, A View of Some of the More Prominent Features of
+                            that State of Society, as it Exists in the United States of America and
+                            in the Colonies of the West Indies, Especially in Jamaica</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Printed for Hatchard and Son, Piccadilly, and J. and A. Arch,
+                            Cornhill</publisher>
+                        <distributor>Sold Also by W. Graphel, Church street, and G. and J. Robison,
+                            Castle Street, Liverpool.</distributor>
+                        <date when="1823">1823</date>
+                        <pubPlace>
+                            <settlement>London</settlement>
+                        </pubPlace>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Transcribed by a student of Digital History at Sheffield Hallam
+                        University</authority>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <biblScope>102</biblScope>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+            <p>In June, 1816, <persName key="Palmer, Mr." from="????" to="????" role="Chairman fo the West India body" ref=na> </persName>, an eminent planter of Jamaica, moved in the House of Commons, as chairman of the West India body, another address to the Crown, praying, amonf other things, that His Majesty would be graciously pleased "to recommend, in the strongest manner, to the local authorities in the respective colonies, to carry into effect every measure which may tend to promote the moral and religious improvement as well as the comfort and happiness of the Negros." One effect of this motion was to frustrate <persName key="Wilberforce, William." from="1759" to="1833" role="Politician" ref="https://en.wikipedia.org/wiki/William_Wilberforce"> </persName>'s bill for the Registration of Slaves; in other words, "to avert the interference of the mothercountry inth emanagement of slaves." But there, we fear, its effect has terminated: at least, we are not aware that, during nearly seven years which have now elapsed since this address was moved, the condition of the Negro slave has undergone any substantial amelioration in any of our colonies; and with respect to the largest of them, Jamaica, the evidence we have now adduced seems to establish the contrary conclusion. But that we may not be accused of adopting this conclusion on insufficient grounds, we shall specify some particulars, of vital improtance to the well-being of the Negro race, in which there is manifestly no real improvement.</p><p> 1. The Negros in Jamaica are still driven at their work by the impulse of the cart-whip, as cattle or horses are driven in this country. - This fact is undeniable. But let us only consider for one moment all the depressing and brutalizing effects of such a system, - a system which shuts out the Negro from even the pretence to a higher motive for exertion than the fear of the lash, an which extracts labour from him, not in the measure which his strength affords, or his interest prompts, but in the measure which an overseer or a driver may choose to draw from him by the impending terror or the actual infliction of corporal punishment; - let us only</p>
+           </body>
+        </text>
+    </TEI>
+</teiCorpus>
