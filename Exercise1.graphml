@@ -1,0 +1,1350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="Edge Id" attr.type="string" for="edge" id="edgeid"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="Component ID" attr.type="int" for="node" id="componentnumber"/>
+<key attr.name="Strongly-Connected ID" attr.type="int" for="node" id="strongcompnum"/>
+<key attr.name="PageRank" attr.type="double" for="node" id="pageranks"/>
+<graph edgedefault="directed">
+<node id="Source">
+<data key="label">Source</data>
+<data key="componentnumber">0</data>
+<data key="strongcompnum">1</data>
+<data key="pageranks">0.011286751810386264</data>
+<data key="size">1.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-918.7555</data>
+<data key="y">-2892.2349</data>
+</node>
+<node id="Target">
+<data key="label">Target</data>
+<data key="componentnumber">0</data>
+<data key="strongcompnum">0</data>
+<data key="pageranks">0.02087738631074161</data>
+<data key="size">7.3617067</data>
+<data key="r">59</data>
+<data key="g">158</data>
+<data key="b">114</data>
+<data key="x">-918.71277</data>
+<data key="y">-2885.9597</data>
+</node>
+<node id="Sam">
+<data key="label">Sam</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">34</data>
+<data key="pageranks">0.011286751810386264</data>
+<data key="size">1.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">21.516968</data>
+<data key="y">-131.29446</data>
+</node>
+<node id="Houston">
+<data key="label">Houston</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">33</data>
+<data key="pageranks">0.013844254343814356</data>
+<data key="size">2.6964552</data>
+<data key="r">186</data>
+<data key="g">227</data>
+<data key="b">218</data>
+<data key="x">24.916578</data>
+<data key="y">-140.5987</data>
+</node>
+<node id="J.">
+<data key="label">J.</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">32</data>
+<data key="pageranks">0.011926127443743287</data>
+<data key="size">1.4241138</data>
+<data key="r">224</data>
+<data key="g">242</data>
+<data key="b">242</data>
+<data key="x">-64.31492</data>
+<data key="y">-151.34834</data>
+</node>
+<node id="Pinckney">
+<data key="label">Pinckney</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">29</data>
+<data key="pageranks">0.011926127443743287</data>
+<data key="size">1.4241138</data>
+<data key="r">224</data>
+<data key="g">242</data>
+<data key="b">242</data>
+<data key="x">29.04732</data>
+<data key="y">-167.28674</data>
+</node>
+<node id="Henderson">
+<data key="label">Henderson</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">28</data>
+<data key="pageranks">0.011926127443743287</data>
+<data key="size">1.4241138</data>
+<data key="r">224</data>
+<data key="g">242</data>
+<data key="b">242</data>
+<data key="x">40.77928</data>
+<data key="y">-162.79373</data>
+</node>
+<node id="James">
+<data key="label">James</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">25</data>
+<data key="pageranks">0.01424402439301337</data>
+<data key="size">2.9616327</data>
+<data key="r">178</data>
+<data key="g">224</data>
+<data key="b">213</data>
+<data key="x">23.703203</data>
+<data key="y">18.779663</data>
+</node>
+<node id="Webb">
+<data key="label">Webb</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">24</data>
+<data key="pageranks">0.011653812510897922</data>
+<data key="size">1.2434806</data>
+<data key="r">229</data>
+<data key="g">245</data>
+<data key="b">246</data>
+<data key="x">63.3988</data>
+<data key="y">32.2547</data>
+</node>
+<node id="Alice">
+<data key="label">Alice</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">23</data>
+<data key="pageranks">0.013980793274425266</data>
+<data key="size">2.787025</data>
+<data key="r">183</data>
+<data key="g">226</data>
+<data key="b">216</data>
+<data key="x">10.1466</data>
+<data key="y">96.589264</data>
+</node>
+<node id="La">
+<data key="label">La</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">22</data>
+<data key="pageranks">0.013980793274425266</data>
+<data key="size">2.787025</data>
+<data key="r">183</data>
+<data key="g">226</data>
+<data key="b">216</data>
+<data key="x">4.228794</data>
+<data key="y">101.161865</data>
+</node>
+<node id="Branche">
+<data key="label">Branche</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">21</data>
+<data key="pageranks">0.013980793274425266</data>
+<data key="size">2.787025</data>
+<data key="r">183</data>
+<data key="g">226</data>
+<data key="b">216</data>
+<data key="x">14.00149</data>
+<data key="y">102.442795</data>
+</node>
+<node id="David">
+<data key="label">David</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">36</data>
+<data key="pageranks">0.01581566254666518</data>
+<data key="size">4.0041394</data>
+<data key="r">146</data>
+<data key="g">211</data>
+<data key="b">192</data>
+<data key="x">5.4671316</data>
+<data key="y">119.65408</data>
+</node>
+<node id="G.">
+<data key="label">G.</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">15</data>
+<data key="pageranks">0.02485476283280283</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">109</data>
+<data key="b">44</data>
+<data key="x">-5.124542</data>
+<data key="y">123.87511</data>
+</node>
+<node id="Burnet">
+<data key="label">Burnet</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">35</data>
+<data key="pageranks">0.018506914150259915</data>
+<data key="size">5.789314</data>
+<data key="r">95</data>
+<data key="g">188</data>
+<data key="b">156</data>
+<data key="x">13.337104</data>
+<data key="y">132.91064</data>
+</node>
+<node id="Richard">
+<data key="label">Richard</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">16</data>
+<data key="pageranks">0.016036161409536624</data>
+<data key="size">4.150402</data>
+<data key="r">142</data>
+<data key="g">210</data>
+<data key="b">190</data>
+<data key="x">-15.58854</data>
+<data key="y">111.798416</data>
+</node>
+<node id="Dunlap">
+<data key="label">Dunlap</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">14</data>
+<data key="pageranks">0.017291838126751898</data>
+<data key="size">4.9833236</data>
+<data key="r">117</data>
+<data key="g">200</data>
+<data key="b">173</data>
+<data key="x">-25.673214</data>
+<data key="y">113.75511</data>
+</node>
+<node id="Nathaniel">
+<data key="label">Nathaniel</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">17</data>
+<data key="pageranks">0.012225610253120611</data>
+<data key="size">1.6227682</data>
+<data key="r">218</data>
+<data key="g">240</data>
+<data key="b">238</data>
+<data key="x">-6.812166</data>
+<data key="y">81.3051</data>
+</node>
+<node id="Amory">
+<data key="label">Amory</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">13</data>
+<data key="pageranks">0.014822259267190782</data>
+<data key="size">3.3451903</data>
+<data key="r">166</data>
+<data key="g">219</data>
+<data key="b">205</data>
+<data key="x">8.881417</data>
+<data key="y">46.886196</data>
+</node>
+<node id="T.">
+<data key="label">T.</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">43</data>
+<data key="pageranks">0.011819564838183784</data>
+<data key="size">1.3534281</data>
+<data key="r">226</data>
+<data key="g">243</data>
+<data key="b">244</data>
+<data key="x">-62.75773</data>
+<data key="y">111.156334</data>
+</node>
+<node id="John">
+<data key="label">John</data>
+<data key="componentnumber">2</data>
+<data key="strongcompnum">48</data>
+<data key="pageranks">0.011286751810386264</data>
+<data key="size">1.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">1042.318</data>
+<data key="y">-2686.5293</data>
+</node>
+<node id="Emberson">
+<data key="label">Emberson</data>
+<data key="componentnumber">2</data>
+<data key="strongcompnum">47</data>
+<data key="pageranks">0.013684410435475101</data>
+<data key="size">2.5904267</data>
+<data key="r">189</data>
+<data key="g">228</data>
+<data key="b">220</data>
+<data key="x">1051.7628</data>
+<data key="y">-2694.5286</data>
+</node>
+<node id="Albert">
+<data key="label">Albert</data>
+<data key="componentnumber">2</data>
+<data key="strongcompnum">46</data>
+<data key="pageranks">0.013684410435475101</data>
+<data key="size">2.5904267</data>
+<data key="r">189</data>
+<data key="g">228</data>
+<data key="b">220</data>
+<data key="x">1033.7825</data>
+<data key="y">-2677.2693</data>
+</node>
+<node id="Sidney">
+<data key="label">Sidney</data>
+<data key="componentnumber">2</data>
+<data key="strongcompnum">45</data>
+<data key="pageranks">0.013684410435475101</data>
+<data key="size">2.5904267</data>
+<data key="r">189</data>
+<data key="g">228</data>
+<data key="b">220</data>
+<data key="x">1033.4894</data>
+<data key="y">-2695.449</data>
+</node>
+<node id="Johnston">
+<data key="label">Johnston</data>
+<data key="componentnumber">2</data>
+<data key="strongcompnum">44</data>
+<data key="pageranks">0.013684410435475101</data>
+<data key="size">2.5904267</data>
+<data key="r">189</data>
+<data key="g">228</data>
+<data key="b">220</data>
+<data key="x">1051.3796</data>
+<data key="y">-2677.6218</data>
+</node>
+<node id="William">
+<data key="label">William</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">53</data>
+<data key="pageranks">0.011286751810386264</data>
+<data key="size">1.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">35.702644</data>
+<data key="y">129.89178</data>
+</node>
+<node id="Scurlock">
+<data key="label">Scurlock</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">52</data>
+<data key="pageranks">0.012352377865981302</data>
+<data key="size">1.7068563</data>
+<data key="r">215</data>
+<data key="g">239</data>
+<data key="b">237</data>
+<data key="x">62.898464</data>
+<data key="y">154.81805</data>
+</node>
+<node id="M.">
+<data key="label">M.</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">51</data>
+<data key="pageranks">0.012352377865981302</data>
+<data key="size">1.7068563</data>
+<data key="r">215</data>
+<data key="g">239</data>
+<data key="b">237</data>
+<data key="x">64.2911</data>
+<data key="y">1.612209</data>
+</node>
+<node id="Williams">
+<data key="label">Williams</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">49</data>
+<data key="pageranks">0.012352377865981302</data>
+<data key="size">1.7068563</data>
+<data key="r">215</data>
+<data key="g">239</data>
+<data key="b">237</data>
+<data key="x">55.610744</data>
+<data key="y">162.48058</data>
+</node>
+<node id="D.">
+<data key="label">D.</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">55</data>
+<data key="pageranks">0.011286751810386264</data>
+<data key="size">1.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">6.998171</data>
+<data key="y">151.76631</data>
+</node>
+<node id="Rowlett">
+<data key="label">Rowlett</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">54</data>
+<data key="pageranks">0.013684410435475101</data>
+<data key="size">2.5904267</data>
+<data key="r">189</data>
+<data key="g">228</data>
+<data key="b">220</data>
+<data key="x">9.460195</data>
+<data key="y">173.15205</data>
+</node>
+<node id="Abner">
+<data key="label">Abner</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">60</data>
+<data key="pageranks">0.011286751810386264</data>
+<data key="size">1.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-16.96416</data>
+<data key="y">44.634655</data>
+</node>
+<node id="S.">
+<data key="label">S.</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">12</data>
+<data key="pageranks">0.017512014651678356</data>
+<data key="size">5.129372</data>
+<data key="r">113</data>
+<data key="g">198</data>
+<data key="b">171</data>
+<data key="x">8.861537</data>
+<data key="y">26.289165</data>
+</node>
+<node id="Lipscomb">
+<data key="label">Lipscomb</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">59</data>
+<data key="pageranks">0.012885190893778821</data>
+<data key="size">2.0602846</data>
+<data key="r">205</data>
+<data key="g">235</data>
+<data key="b">230</data>
+<data key="x">-29.030603</data>
+<data key="y">49.266384</data>
+</node>
+<node id="Hamilton">
+<data key="label">Hamilton</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">58</data>
+<data key="pageranks">0.011819564838183784</data>
+<data key="size">1.3534281</data>
+<data key="r">226</data>
+<data key="g">243</data>
+<data key="b">244</data>
+<data key="x">-48.376186</data>
+<data key="y">46.998905</data>
+</node>
+<node id="and">
+<data key="label">and</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">57</data>
+<data key="pageranks">0.01341800392157634</data>
+<data key="size">2.4137125</data>
+<data key="r">194</data>
+<data key="g">231</data>
+<data key="b">223</data>
+<data key="x">-84.87558</data>
+<data key="y">55.924286</data>
+</node>
+<node id="A.">
+<data key="label">A.</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">4</data>
+<data key="pageranks">0.01518323664845334</data>
+<data key="size">3.5846357</data>
+<data key="r">159</data>
+<data key="g">216</data>
+<data key="b">201</data>
+<data key="x">30.805082</data>
+<data key="y">-65.10045</data>
+</node>
+<node id="Bumley">
+<data key="label">Bumley</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">56</data>
+<data key="pageranks">0.011819564838183784</data>
+<data key="size">1.3534281</data>
+<data key="r">226</data>
+<data key="g">243</data>
+<data key="b">244</data>
+<data key="x">-44.728184</data>
+<data key="y">58.38688</data>
+</node>
+<node id="Joseph">
+<data key="label">Joseph</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">27</data>
+<data key="pageranks">0.01681633626737587</data>
+<data key="size">4.667911</data>
+<data key="r">126</data>
+<data key="g">203</data>
+<data key="b">180</data>
+<data key="x">-4.7697773</data>
+<data key="y">-34.69283</data>
+</node>
+<node id="Waplee">
+<data key="label">Waplee</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">26</data>
+<data key="pageranks">0.014145740521499707</data>
+<data key="size">2.8964386</data>
+<data key="r">180</data>
+<data key="g">225</data>
+<data key="b">214</data>
+<data key="x">-9.550609</data>
+<data key="y">-44.188046</data>
+</node>
+<node id="Barnard">
+<data key="label">Barnard</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">20</data>
+<data key="pageranks">0.014210683980277234</data>
+<data key="size">2.939517</data>
+<data key="r">178</data>
+<data key="g">224</data>
+<data key="b">213</data>
+<data key="x">29.073828</data>
+<data key="y">-24.06376</data>
+</node>
+<node id="E.">
+<data key="label">E.</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">19</data>
+<data key="pageranks">0.0168357322240495</data>
+<data key="size">4.680777</data>
+<data key="r">126</data>
+<data key="g">203</data>
+<data key="b">179</data>
+<data key="x">43.28252</data>
+<data key="y">-17.77958</data>
+</node>
+<node id="Bee">
+<data key="label">Bee</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">18</data>
+<data key="pageranks">0.014210683980277234</data>
+<data key="size">2.939517</data>
+<data key="r">178</data>
+<data key="g">224</data>
+<data key="b">213</data>
+<data key="x">31.689516</data>
+<data key="y">-17.91883</data>
+</node>
+<node id="Geo.">
+<data key="label">Geo.</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">25</data>
+<data key="pageranks">0.014269079465875167</data>
+<data key="size">2.9782524</data>
+<data key="r">177</data>
+<data key="g">224</data>
+<data key="b">212</data>
+<data key="x">8.247053</data>
+<data key="y">3.8741233</data>
+</node>
+<node id="H.">
+<data key="label">H.</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">10</data>
+<data key="pageranks">0.01669353902070475</data>
+<data key="size">4.586457</data>
+<data key="r">129</data>
+<data key="g">204</data>
+<data key="b">181</data>
+<data key="x">2.8287609</data>
+<data key="y">-7.873026</data>
+</node>
+<node id="Flood">
+<data key="label">Flood</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">9</data>
+<data key="pageranks">0.01669353902070475</data>
+<data key="size">4.586457</data>
+<data key="r">129</data>
+<data key="g">204</data>
+<data key="b">181</data>
+<data key="x">-5.1685405</data>
+<data key="y">-2.5884352</data>
+</node>
+<node id="Mayfield">
+<data key="label">Mayfield</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">11</data>
+<data key="pageranks">0.0159135755682858</data>
+<data key="size">4.069087</data>
+<data key="r">144</data>
+<data key="g">211</data>
+<data key="b">191</data>
+<data key="x">29.351297</data>
+<data key="y">11.4543705</data>
+</node>
+<node id="Samuel">
+<data key="label">Samuel</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">62</data>
+<data key="pageranks">0.011286751810386264</data>
+<data key="size">1.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">35.021374</data>
+<data key="y">-46.359608</data>
+</node>
+<node id="Roberts">
+<data key="label">Roberts</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">61</data>
+<data key="pageranks">0.013371672353941775</data>
+<data key="size">2.3829799</data>
+<data key="r">195</data>
+<data key="g">231</data>
+<data key="b">224</data>
+<data key="x">43.75928</data>
+<data key="y">-52.722267</data>
+</node>
+<node id="Eve">
+<data key="label">Eve</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">5</data>
+<data key="pageranks">0.017959931751821246</data>
+<data key="size">5.4264865</data>
+<data key="r">104</data>
+<data key="g">194</data>
+<data key="b">165</data>
+<data key="x">13.822132</data>
+<data key="y">-67.83916</data>
+</node>
+<node id="B.">
+<data key="label">B.</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">3</data>
+<data key="pageranks">0.012565503077100311</data>
+<data key="size">1.8482276</data>
+<data key="r">211</data>
+<data key="g">237</data>
+<data key="b">234</data>
+<data key="x">32.809097</data>
+<data key="y">-147.0861</data>
+</node>
+<node id="Roman">
+<data key="label">Roman</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">2</data>
+<data key="pageranks">0.012565503077100311</data>
+<data key="size">1.8482276</data>
+<data key="r">211</data>
+<data key="g">237</data>
+<data key="b">234</data>
+<data key="x">23.437168</data>
+<data key="y">-150.63226</data>
+</node>
+<node id="Isaac">
+<data key="label">Isaac</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">27</data>
+<data key="pageranks">0.0161764104523016</data>
+<data key="size">4.2434325</data>
+<data key="r">139</data>
+<data key="g">209</data>
+<data key="b">188</data>
+<data key="x">-74.462105</data>
+<data key="y">-96.399506</data>
+</node>
+<node id="Van">
+<data key="label">Van</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">8</data>
+<data key="pageranks">0.019612249317106985</data>
+<data key="size">6.52251</data>
+<data key="r">78</data>
+<data key="g">174</data>
+<data key="b">136</data>
+<data key="x">-70.48558</data>
+<data key="y">-111.2812</data>
+</node>
+<node id="Zandt">
+<data key="label">Zandt</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">7</data>
+<data key="pageranks">0.019612249317106985</data>
+<data key="size">6.52251</data>
+<data key="r">78</data>
+<data key="g">174</data>
+<data key="b">136</data>
+<data key="x">-79.103775</data>
+<data key="y">-110.27482</data>
+</node>
+<node id="Anson">
+<data key="label">Anson</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">27</data>
+<data key="pageranks">0.018531375307925417</data>
+<data key="size">5.805539</data>
+<data key="r">95</data>
+<data key="g">188</data>
+<data key="b">155</data>
+<data key="x">-62.02321</data>
+<data key="y">-79.6544</data>
+</node>
+<node id="Jones">
+<data key="label">Jones</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">6</data>
+<data key="pageranks">0.024423391478632303</data>
+<data key="size">9.7138605</data>
+<data key="r">6</data>
+<data key="g">114</data>
+<data key="b">51</data>
+<data key="x">-71.88812</data>
+<data key="y">-56.859127</data>
+</node>
+<node id="C.">
+<data key="label">C.</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">31</data>
+<data key="pageranks">0.01331402572742538</data>
+<data key="size">2.3447413</data>
+<data key="r">196</data>
+<data key="g">231</data>
+<data key="b">225</data>
+<data key="x">-80.65422</data>
+<data key="y">-178.62128</data>
+</node>
+<node id="Spencer">
+<data key="label">Spencer</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">30</data>
+<data key="pageranks">0.01331402572742538</data>
+<data key="size">2.3447413</data>
+<data key="r">196</data>
+<data key="g">231</data>
+<data key="b">225</data>
+<data key="x">-70.80357</data>
+<data key="y">-182.17007</data>
+</node>
+<node id="Hartley">
+<data key="label">Hartley</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">42</data>
+<data key="pageranks">0.01254242852760154</data>
+<data key="size">1.8329216</data>
+<data key="r">212</data>
+<data key="g">238</data>
+<data key="b">234</data>
+<data key="x">-88.76316</data>
+<data key="y">140.96558</data>
+</node>
+<node id="Crawford">
+<data key="label">Crawford</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">41</data>
+<data key="pageranks">0.01254242852760154</data>
+<data key="size">1.8329216</data>
+<data key="r">212</data>
+<data key="g">238</data>
+<data key="b">234</data>
+<data key="x">-90.12313</data>
+<data key="y">130.9475</data>
+</node>
+<node id="Wm.">
+<data key="label">Wm.</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">40</data>
+<data key="pageranks">0.01254242852760154</data>
+<data key="size">1.8329216</data>
+<data key="r">212</data>
+<data key="g">238</data>
+<data key="b">234</data>
+<data key="x">-112.33486</data>
+<data key="y">-15.845324</data>
+</node>
+<node id="Armstrong">
+<data key="label">Armstrong</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">37</data>
+<data key="pageranks">0.01254242852760154</data>
+<data key="size">1.8329216</data>
+<data key="r">212</data>
+<data key="g">238</data>
+<data key="b">234</data>
+<data key="x">-79.13759</data>
+<data key="y">142.16235</data>
+</node>
+<node id="R.">
+<data key="label">R.</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">66</data>
+<data key="pageranks">0.011286751810386264</data>
+<data key="size">1.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-115.970856</data>
+<data key="y">57.68828</data>
+</node>
+<node id="W.">
+<data key="label">W.</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">65</data>
+<data key="pageranks">0.012885190893778821</data>
+<data key="size">2.0602846</data>
+<data key="r">205</data>
+<data key="g">235</data>
+<data key="b">230</data>
+<data key="x">-150.98767</data>
+<data key="y">67.85948</data>
+</node>
+<node id="Davenport">
+<data key="label">Davenport</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">64</data>
+<data key="pageranks">0.012885190893778821</data>
+<data key="size">2.0602846</data>
+<data key="r">205</data>
+<data key="g">235</data>
+<data key="b">230</data>
+<data key="x">-142.71887</data>
+<data key="y">73.33625</data>
+</node>
+<node id="Loomis">
+<data key="label">Loomis</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">63</data>
+<data key="pageranks">0.012885190893778821</data>
+<data key="size">2.0602846</data>
+<data key="r">205</data>
+<data key="g">235</data>
+<data key="b">230</data>
+<data key="x">-146.31181</data>
+<data key="y">58.978096</data>
+</node>
+<node id="Hale">
+<data key="label">Hale</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">50</data>
+<data key="pageranks">0.01391180005415853</data>
+<data key="size">2.74126</data>
+<data key="r">184</data>
+<data key="g">227</data>
+<data key="b">217</data>
+<data key="x">102.77311</data>
+<data key="y">-0.59289217</data>
+</node>
+<node id="Henry">
+<data key="label">Henry</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">39</data>
+<data key="pageranks">0.013951940958674657</data>
+<data key="size">2.7678864</data>
+<data key="r">183</data>
+<data key="g">226</data>
+<data key="b">216</data>
+<data key="x">-142.55609</data>
+<data key="y">-26.238499</data>
+</node>
+<node id="Daingerfield">
+<data key="label">Daingerfield</data>
+<data key="componentnumber">1</data>
+<data key="strongcompnum">38</data>
+<data key="pageranks">0.013951940958674657</data>
+<data key="size">2.7678864</data>
+<data key="r">183</data>
+<data key="g">226</data>
+<data key="b">216</data>
+<data key="x">-143.87366</data>
+<data key="y">-16.528126</data>
+</node>
+<edge source="Source" target="Target">
+<data key="edgeid">0</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Sam" target="Houston">
+<data key="edgeid">1</data>
+<data key="weight">4.0</data>
+</edge>
+<edge source="Sam" target="J.">
+<data key="edgeid">2</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Sam" target="Pinckney">
+<data key="edgeid">3</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Sam" target="Henderson">
+<data key="edgeid">4</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="James" target="Webb">
+<data key="edgeid">5</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="James" target="Alice">
+<data key="edgeid">6</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="James" target="La">
+<data key="edgeid">7</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="James" target="Branche">
+<data key="edgeid">8</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="David" target="G.">
+<data key="edgeid">9</data>
+<data key="weight">12.0</data>
+</edge>
+<edge source="David" target="Burnet">
+<data key="edgeid">10</data>
+<data key="weight">9.0</data>
+</edge>
+<edge source="David" target="Richard">
+<data key="edgeid">11</data>
+<data key="weight">3.0</data>
+</edge>
+<edge source="David" target="Dunlap">
+<data key="edgeid">13</data>
+<data key="weight">3.0</data>
+</edge>
+<edge source="Nathaniel" target="Amory">
+<data key="edgeid">14</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="Nathaniel" target="Richard">
+<data key="edgeid">15</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="Nathaniel" target="G.">
+<data key="edgeid">16</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="Nathaniel" target="Dunlap">
+<data key="edgeid">17</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="T." target="Dunlap">
+<data key="edgeid">23</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="T." target="Richard">
+<data key="edgeid">24</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="T." target="G.">
+<data key="edgeid">25</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="John" target="Emberson">
+<data key="edgeid">31</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="John" target="Albert">
+<data key="edgeid">32</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="John" target="Sidney">
+<data key="edgeid">33</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="John" target="Johnston">
+<data key="edgeid">34</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="David" target="Alice">
+<data key="edgeid">37</data>
+<data key="weight">6.0</data>
+</edge>
+<edge source="David" target="La">
+<data key="edgeid">38</data>
+<data key="weight">6.0</data>
+</edge>
+<edge source="David" target="Branche">
+<data key="edgeid">39</data>
+<data key="weight">6.0</data>
+</edge>
+<edge source="William" target="Scurlock">
+<data key="edgeid">50</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="William" target="David">
+<data key="edgeid">51</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="William" target="G.">
+<data key="edgeid">52</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="William" target="Burnet">
+<data key="edgeid">53</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="William" target="M.">
+<data key="edgeid">54</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="William" target="Williams">
+<data key="edgeid">55</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="D." target="Rowlett">
+<data key="edgeid">59</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="D." target="David">
+<data key="edgeid">60</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="D." target="G.">
+<data key="edgeid">61</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="D." target="Burnet">
+<data key="edgeid">62</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="Abner" target="S.">
+<data key="edgeid">87</data>
+<data key="weight">3.0</data>
+</edge>
+<edge source="Abner" target="Lipscomb">
+<data key="edgeid">88</data>
+<data key="weight">3.0</data>
+</edge>
+<edge source="Abner" target="Alice">
+<data key="edgeid">89</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Abner" target="La">
+<data key="edgeid">90</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Abner" target="Branche">
+<data key="edgeid">91</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Abner" target="James">
+<data key="edgeid">94</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Abner" target="Hamilton">
+<data key="edgeid">95</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Abner" target="and">
+<data key="edgeid">96</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Abner" target="A.">
+<data key="edgeid">97</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Abner" target="T.">
+<data key="edgeid">98</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Abner" target="Bumley">
+<data key="edgeid">99</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Joseph" target="Waplee">
+<data key="edgeid">100</data>
+<data key="weight">5.0</data>
+</edge>
+<edge source="Joseph" target="Barnard">
+<data key="edgeid">101</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Joseph" target="E.">
+<data key="edgeid">102</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Joseph" target="Bee">
+<data key="edgeid">103</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Abner" target="Geo.">
+<data key="edgeid">106</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Abner" target="H.">
+<data key="edgeid">107</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Abner" target="Flood">
+<data key="edgeid">108</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Joseph" target="Nathaniel">
+<data key="edgeid">110</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Joseph" target="Amory">
+<data key="edgeid">111</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Joseph" target="Geo.">
+<data key="edgeid">113</data>
+<data key="weight">3.0</data>
+</edge>
+<edge source="Joseph" target="H.">
+<data key="edgeid">114</data>
+<data key="weight">3.0</data>
+</edge>
+<edge source="Joseph" target="Flood">
+<data key="edgeid">115</data>
+<data key="weight">3.0</data>
+</edge>
+<edge source="James" target="S.">
+<data key="edgeid">124</data>
+<data key="weight">6.0</data>
+</edge>
+<edge source="James" target="Mayfield">
+<data key="edgeid">125</data>
+<data key="weight">6.0</data>
+</edge>
+<edge source="James" target="Geo.">
+<data key="edgeid">126</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="James" target="H.">
+<data key="edgeid">127</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="James" target="Flood">
+<data key="edgeid">128</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="James" target="Barnard">
+<data key="edgeid">131</data>
+<data key="weight">3.0</data>
+</edge>
+<edge source="James" target="E.">
+<data key="edgeid">132</data>
+<data key="weight">3.0</data>
+</edge>
+<edge source="James" target="Bee">
+<data key="edgeid">133</data>
+<data key="weight">3.0</data>
+</edge>
+<edge source="Geo." target="H.">
+<data key="edgeid">139</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="Geo." target="Flood">
+<data key="edgeid">140</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="Geo." target="James">
+<data key="edgeid">141</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="Geo." target="S.">
+<data key="edgeid">142</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="Geo." target="Mayfield">
+<data key="edgeid">143</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="James" target="Nathaniel">
+<data key="edgeid">161</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="James" target="Amory">
+<data key="edgeid">162</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Samuel" target="A.">
+<data key="edgeid">163</data>
+<data key="weight">5.0</data>
+</edge>
+<edge source="Samuel" target="Roberts">
+<data key="edgeid">164</data>
+<data key="weight">5.0</data>
+</edge>
+<edge source="Samuel" target="Barnard">
+<data key="edgeid">165</data>
+<data key="weight">3.0</data>
+</edge>
+<edge source="Samuel" target="E.">
+<data key="edgeid">166</data>
+<data key="weight">3.0</data>
+</edge>
+<edge source="Samuel" target="Bee">
+<data key="edgeid">167</data>
+<data key="weight">3.0</data>
+</edge>
+<edge source="Samuel" target="Joseph">
+<data key="edgeid">175</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="Samuel" target="Eve">
+<data key="edgeid">176</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="Sam" target="Joseph">
+<data key="edgeid">187</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Sam" target="Eve">
+<data key="edgeid">188</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Sam" target="A.">
+<data key="edgeid">190</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="Sam" target="B.">
+<data key="edgeid">191</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="Sam" target="Roman">
+<data key="edgeid">192</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="Isaac" target="Van">
+<data key="edgeid">197</data>
+<data key="weight">3.0</data>
+</edge>
+<edge source="Isaac" target="Zandt">
+<data key="edgeid">198</data>
+<data key="weight">3.0</data>
+</edge>
+<edge source="Isaac" target="Anson">
+<data key="edgeid">199</data>
+<data key="weight">3.0</data>
+</edge>
+<edge source="Isaac" target="Jones">
+<data key="edgeid">200</data>
+<data key="weight">3.0</data>
+</edge>
+<edge source="Joseph" target="Eve">
+<data key="edgeid">201</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="Joseph" target="Anson">
+<data key="edgeid">202</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="Joseph" target="Jones">
+<data key="edgeid">203</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="J." target="C.">
+<data key="edgeid">208</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="J." target="Spencer">
+<data key="edgeid">209</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="J." target="Isaac">
+<data key="edgeid">210</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="J." target="Van">
+<data key="edgeid">211</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="J." target="Zandt">
+<data key="edgeid">212</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="T." target="Hartley">
+<data key="edgeid">213</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="T." target="Crawford">
+<data key="edgeid">214</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="T." target="Wm.">
+<data key="edgeid">215</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="T." target="Armstrong">
+<data key="edgeid">216</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="R." target="Jones">
+<data key="edgeid">217</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="R." target="W.">
+<data key="edgeid">218</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="R." target="Davenport">
+<data key="edgeid">219</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="R." target="and">
+<data key="edgeid">220</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="R." target="G.">
+<data key="edgeid">221</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="R." target="Loomis">
+<data key="edgeid">222</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="M." target="E.">
+<data key="edgeid">230</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="M." target="Hale">
+<data key="edgeid">231</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="M." target="Joseph">
+<data key="edgeid">232</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="M." target="Eve">
+<data key="edgeid">233</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Anson" target="Jones">
+<data key="edgeid">234</data>
+<data key="weight">3.0</data>
+</edge>
+<edge source="Anson" target="Isaac">
+<data key="edgeid">235</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="Anson" target="Van">
+<data key="edgeid">236</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="Anson" target="Zandt">
+<data key="edgeid">237</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="Anson" target="Joseph">
+<data key="edgeid">239</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Anson" target="Eve">
+<data key="edgeid">240</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Wm." target="Henry">
+<data key="edgeid">245</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Wm." target="Daingerfield">
+<data key="edgeid">246</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Wm." target="Anson">
+<data key="edgeid">247</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Wm." target="Jones">
+<data key="edgeid">248</data>
+<data key="weight">1.0</data>
+</edge>
+</graph>
+</graphml>
