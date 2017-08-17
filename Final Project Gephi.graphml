@@ -1,0 +1,1588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="Edge Id" attr.type="string" for="edge" id="edgeid"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="PageRank" attr.type="double" for="node" id="pageranks"/>
+<graph edgedefault="directed">
+<node id="Mrs. John Richardson">
+<data key="label">Mrs. John Richardson</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-869.073</data>
+<data key="y">472.4191</data>
+</node>
+<node id=" bal. sweeping">
+<data key="label"> bal. sweeping</data>
+<data key="pageranks">0.014736329475283052</data>
+<data key="size">5.0</data>
+<data key="r">169</data>
+<data key="g">208</data>
+<data key="b">191</data>
+<data key="x">-890.5589</data>
+<data key="y">481.95782</data>
+</node>
+<node id="M. Armstrong">
+<data key="label">M. Armstrong</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-49.95485</data>
+<data key="y">-37.261955</data>
+</node>
+<node id=" supplies...........">
+<data key="label"> supplies...........</data>
+<data key="pageranks">0.034836754425342197</data>
+<data key="size">5.0</data>
+<data key="r">227</data>
+<data key="g">74</data>
+<data key="b">51</data>
+<data key="x">10.806345</data>
+<data key="y">40.586555</data>
+</node>
+<node id="ev">
+<data key="label">ev</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">657.5759</data>
+<data key="y">1252.8374</data>
+</node>
+<node id=" over-charge one child...">
+<data key="label"> over-charge one child...</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">667.4066</data>
+<data key="y">1273.4403</data>
+</node>
+<node id="Hudgins">
+<data key="label">Hudgins</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-55.183468</data>
+<data key="y">784.82806</data>
+</node>
+<node id=" sweeping.............">
+<data key="label"> sweeping.............</data>
+<data key="pageranks">0.029425101554172425</data>
+<data key="size">5.0</data>
+<data key="r">62</data>
+<data key="g">145</data>
+<data key="b">98</data>
+<data key="x">-50.46523</data>
+<data key="y">792.2995</data>
+</node>
+<node id="Geo. Conic Mary A Frank Hughes John Palmer">
+<data key="label">Geo. Conic Mary A Frank Hughes John Palmer</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">1695.515</data>
+<data key="y">-203.2651</data>
+</node>
+<node id=" all claims.">
+<data key="label"> all claims.</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">1684.9668</data>
+<data key="y">-223.51047</data>
+</node>
+<node id="E. W. Hudgins">
+<data key="label">E. W. Hudgins</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-271.68997</data>
+<data key="y">-772.20776</data>
+</node>
+<node id=" auditor Win. Dean">
+<data key="label"> auditor Win. Dean</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">-248.89577</data>
+<data key="y">-770.96704</data>
+</node>
+<node id="Thus. Prendergast">
+<data key="label">Thus. Prendergast</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-195.92963</data>
+<data key="y">-9.363472</data>
+</node>
+<node id=" repairs.................">
+<data key="label"> repairs.................</data>
+<data key="pageranks">0.03406366115803223</data>
+<data key="size">5.0</data>
+<data key="r">227</data>
+<data key="g">74</data>
+<data key="b">51</data>
+<data key="x">-71.46121</data>
+<data key="y">-176.47552</data>
+</node>
+<node id="Ellen Hobin">
+<data key="label">Ellen Hobin</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-912.2455</data>
+<data key="y">491.00485</data>
+</node>
+<node id="J. A. Cowan">
+<data key="label">J. A. Cowan</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-720.7577</data>
+<data key="y">1179.5563</data>
+</node>
+<node id=" bill to date..................">
+<data key="label"> bill to date..................</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">-704.89905</data>
+<data key="y">1163.1361</data>
+</node>
+<node id="tic rge \llan">
+<data key="label">tic rge \llan</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-58.13036</data>
+<data key="y">788.89</data>
+</node>
+<node id="Miss Kirk">
+<data key="label">Miss Kirk</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">792.7307</data>
+<data key="y">-631.8142</data>
+</node>
+<node id="Telegram">
+<data key="label">Telegram</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">814.2523</data>
+<data key="y">-639.4256</data>
+</node>
+<node id="Thomas ( ieorge Johnston">
+<data key="label">Thomas ( ieorge Johnston</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">1196.1864</data>
+<data key="y">446.3742</data>
+</node>
+<node id=" firewood.....................">
+<data key="label"> firewood.....................</data>
+<data key="pageranks">0.03792912749458206</data>
+<data key="size">5.0</data>
+<data key="r">227</data>
+<data key="g">74</data>
+<data key="b">51</data>
+<data key="x">941.7335</data>
+<data key="y">528.34924</data>
+</node>
+<node id="James Wilson">
+<data key="label">James Wilson</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">736.83044</data>
+<data key="y">-956.36975</data>
+</node>
+<node id=" rebate over value............">
+<data key="label"> rebate over value............</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">748.41547</data>
+<data key="y">-976.0401</data>
+</node>
+<node id="Henry T. McDowell">
+<data key="label">Henry T. McDowell</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-1521.258</data>
+<data key="y">-573.3681</data>
+</node>
+<node id=" sweeping and firing----">
+<data key="label"> sweeping and firing----</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">-1498.5912</data>
+<data key="y">-570.9885</data>
+</node>
+<node id="Miss Harvey...........">
+<data key="label">Miss Harvey...........</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">1270.0134</data>
+<data key="y">-1243.2688</data>
+</node>
+<node id="1 Box of Crayons">
+<data key="label">1 Box of Crayons</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">1267.4297</data>
+<data key="y">-1265.9504</data>
+</node>
+<node id="Win. C. Belslier">
+<data key="label">Win. C. Belslier</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">975.75995</data>
+<data key="y">682.32837</data>
+</node>
+<node id="Jas. Crick">
+<data key="label">Jas. Crick</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-555.9256</data>
+<data key="y">-1079.7622</data>
+</node>
+<node id=" work on school No. 1............">
+<data key="label"> work on school No. 1............</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">-545.7831</data>
+<data key="y">-1059.3109</data>
+</node>
+<node id="Samuel Dale">
+<data key="label">Samuel Dale</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-790.20355</data>
+<data key="y">-744.44635</data>
+</node>
+<node id=" for pine.................">
+<data key="label"> for pine.................</data>
+<data key="pageranks">0.014736329475283052</data>
+<data key="size">5.0</data>
+<data key="r">169</data>
+<data key="g">208</data>
+<data key="b">191</data>
+<data key="x">-808.0133</data>
+<data key="y">-759.7891</data>
+</node>
+<node id="Mrs. Jas. Findley">
+<data key="label">Mrs. Jas. Findley</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-53.318275</data>
+<data key="y">804.8477</data>
+</node>
+<node id=" price of poker...........">
+<data key="label"> price of poker...........</data>
+<data key="pageranks">0.006232303534873413</data>
+<data key="size">5.0</data>
+<data key="r">231</data>
+<data key="g">244</data>
+<data key="b">246</data>
+<data key="x">-35.531143</data>
+<data key="y">811.9115</data>
+</node>
+<node id="Mrs. A. Pirazier">
+<data key="label">Mrs. A. Pirazier</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">313.52704</data>
+<data key="y">287.40292</data>
+</node>
+<node id=" exemption................">
+<data key="label"> exemption................</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">304.58798</data>
+<data key="y">308.40826</data>
+</node>
+<node id=" dusting">
+<data key="label"> dusting</data>
+<data key="pageranks">0.006232303534873413</data>
+<data key="size">5.0</data>
+<data key="r">231</data>
+<data key="g">244</data>
+<data key="b">246</data>
+<data key="x">-72.43368</data>
+<data key="y">803.3979</data>
+</node>
+<node id="G. F. Hudgins">
+<data key="label">G. F. Hudgins</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">506.09344</data>
+<data key="y">28.073309</data>
+</node>
+<node id=" chalk and broom..............">
+<data key="label"> chalk and broom..............</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">509.5968</data>
+<data key="y">5.515134</data>
+</node>
+<node id="George H. Bradford">
+<data key="label">George H. Bradford</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-549.63965</data>
+<data key="y">-1642.1749</data>
+</node>
+<node id=" 14 registers............">
+<data key="label"> 14 registers............</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">-533.2602</data>
+<data key="y">-1658.0762</data>
+</node>
+<node id="Rajph 11&quot;i tier">
+<data key="label">Rajph 11"i tier</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-1849.2987</data>
+<data key="y">-143.5791</data>
+</node>
+<node id=" rebate.....................">
+<data key="label"> rebate.....................</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">-1860.7972</data>
+<data key="y">-123.85812</data>
+</node>
+<node id="F. Hudgins">
+<data key="label">F. Hudgins</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">523.4252</data>
+<data key="y">796.7463</data>
+</node>
+<node id=" hill of sundries...;........">
+<data key="label"> hill of sundries...;........</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">515.7549</data>
+<data key="y">775.2448</data>
+</node>
+<node id="Wm. T. McDowell">
+<data key="label">Wm. T. McDowell</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">1396.4988</data>
+<data key="y">-796.039</data>
+</node>
+<node id=" work on school No. 4-------">
+<data key="label"> work on school No. 4-------</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">1418.1919</data>
+<data key="y">-803.14813</data>
+</node>
+<node id="George Hudgins">
+<data key="label">George Hudgins</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-382.79538</data>
+<data key="y">318.6619</data>
+</node>
+<node id=" sweeping and lighting tires at No.">
+<data key="label"> sweeping and lighting tires at No.</data>
+<data key="pageranks">0.007778490069493348</data>
+<data key="size">5.0</data>
+<data key="r">220</data>
+<data key="g">238</data>
+<data key="b">236</data>
+<data key="x">-361.05655</data>
+<data key="y">327.67865</data>
+</node>
+<node id=" bills">
+<data key="label"> bills</data>
+<data key="pageranks">0.006232303534873413</data>
+<data key="size">5.0</data>
+<data key="r">238</data>
+<data key="g">170</data>
+<data key="b">172</data>
+<data key="x">48.546783</data>
+<data key="y">-126.15565</data>
+</node>
+<node id=" une load of pine M. ">
+<data key="label"> une load of pine M. </data>
+<data key="pageranks">0.007778490069493348</data>
+<data key="size">5.0</data>
+<data key="r">220</data>
+<data key="g">238</data>
+<data key="b">236</data>
+<data key="x">-401.9839</data>
+<data key="y">305.1852</data>
+</node>
+<node id=" piling wood......">
+<data key="label"> piling wood......</data>
+<data key="pageranks">0.015509422742593018</data>
+<data key="size">5.0</data>
+<data key="r">227</data>
+<data key="g">74</data>
+<data key="b">51</data>
+<data key="x">89.49515</data>
+<data key="y">-44.8935</data>
+</node>
+<node id="Robt. Smart">
+<data key="label">Robt. Smart</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">272.85037</data>
+<data key="y">-363.1739</data>
+</node>
+<node id="Joseph Murphy">
+<data key="label">Joseph Murphy</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-272.68314</data>
+<data key="y">-128.69142</data>
+</node>
+<node id=" 1 box crayons----">
+<data key="label"> 1 box crayons----</data>
+<data key="pageranks">0.006232303534873413</data>
+<data key="size">5.0</data>
+<data key="r">231</data>
+<data key="g">244</data>
+<data key="b">246</data>
+<data key="x">-28.765692</data>
+<data key="y">-94.294945</data>
+</node>
+<node id="Geo. Kennedy">
+<data key="label">Geo. Kennedy</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">160.58943</data>
+<data key="y">-19.880829</data>
+</node>
+<node id="Mrs. A. Thomas">
+<data key="label">Mrs. A. Thomas</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-48.026558</data>
+<data key="y">781.34576</data>
+</node>
+<node id="R. Richardson">
+<data key="label">R. Richardson</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-825.7272</data>
+<data key="y">-775.2277</data>
+</node>
+<node id="W. C. McDowell">
+<data key="label">W. C. McDowell</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-200.45363</data>
+<data key="y">-248.70476</data>
+</node>
+<node id=" lighting tires......">
+<data key="label"> lighting tires......</data>
+<data key="pageranks">0.006232303534873413</data>
+<data key="size">5.0</data>
+<data key="r">231</data>
+<data key="g">244</data>
+<data key="b">246</data>
+<data key="x">-57.79858</data>
+<data key="y">824.1796</data>
+</node>
+<node id="8. Smiley">
+<data key="label">8. Smiley</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">518.2531</data>
+<data key="y">448.8933</data>
+</node>
+<node id="John Grant">
+<data key="label">John Grant</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">195.70891</data>
+<data key="y">-121.093</data>
+</node>
+<node id="Robt. Telford">
+<data key="label">Robt. Telford</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-874.4404</data>
+<data key="y">1646.9573</data>
+</node>
+<node id=" f. *r latch and pane of glass..">
+<data key="label"> f. *r latch and pane of glass..</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">-888.7037</data>
+<data key="y">1629.1332</data>
+</node>
+<node id="John Conley">
+<data key="label">John Conley</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-960.0377</data>
+<data key="y">898.8169</data>
+</node>
+<node id=" for lock....................">
+<data key="label"> for lock....................</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">-940.944</data>
+<data key="y">886.30414</data>
+</node>
+<node id="Mary Telford">
+<data key="label">Mary Telford</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-43.094475</data>
+<data key="y">787.48517</data>
+</node>
+<node id="Samuel Horner">
+<data key="label">Samuel Horner</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-1657.9568</data>
+<data key="y">536.7243</data>
+</node>
+<node id=" dry pine..................">
+<data key="label"> dry pine..................</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">-1675.8384</data>
+<data key="y">522.5332</data>
+</node>
+<node id="John G. Elliott">
+<data key="label">John G. Elliott</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">550.13446</data>
+<data key="y">-408.2753</data>
+</node>
+<node id=" for school sheds........">
+<data key="label"> for school sheds........</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">527.51794</data>
+<data key="y">-411.38077</data>
+</node>
+<node id="J. Lester">
+<data key="label">J. Lester</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">739.12085</data>
+<data key="y">-140.74254</data>
+</node>
+<node id=" for mending poker.............">
+<data key="label"> for mending poker.............</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">759.8799</data>
+<data key="y">-150.23962</data>
+</node>
+<node id="Geo. Wainman">
+<data key="label">Geo. Wainman</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-701.6609</data>
+<data key="y">-371.8478</data>
+</node>
+<node id=" furnace for No. 1 school...">
+<data key="label"> furnace for No. 1 school...</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">-678.83307</data>
+<data key="y">-371.99933</data>
+</node>
+<node id="Jas. V Carson">
+<data key="label">Jas. V Carson</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">1837.3369</data>
+<data key="y">336.9493</data>
+</node>
+<node id=" banking school............">
+<data key="label"> banking school............</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">1850.0756</data>
+<data key="y">355.89294</data>
+</node>
+<node id="William Ernies">
+<data key="label">William Ernies</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">1255.2836</data>
+<data key="y">-10.656184</data>
+</node>
+<node id=" note.....................">
+<data key="label"> note.....................</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">1234.4204</data>
+<data key="y">-19.921877</data>
+</node>
+<node id="Robt. J. Wilson">
+<data key="label">Robt. J. Wilson</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">134.03937</data>
+<data key="y">-872.61035</data>
+</node>
+<node id=" pine....................">
+<data key="label"> pine....................</data>
+<data key="pageranks">0.014736329475283052</data>
+<data key="size">5.0</data>
+<data key="r">169</data>
+<data key="g">208</data>
+<data key="b">191</data>
+<data key="x">124.776955</data>
+<data key="y">-894.2148</data>
+</node>
+<node id="Robt. Ralph">
+<data key="label">Robt. Ralph</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">165.46265</data>
+<data key="y">-74.485985</data>
+</node>
+<node id="Thus. Dean">
+<data key="label">Thus. Dean</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-164.22954</data>
+<data key="y">-1333.7234</data>
+</node>
+<node id=" work.........................">
+<data key="label"> work.........................</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">-141.7573</data>
+<data key="y">-1329.7065</data>
+</node>
+<node id="Simon Bar her">
+<data key="label">Simon Bar her</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-1236.8964</data>
+<data key="y">-293.721</data>
+</node>
+<node id=" contract for wood.........">
+<data key="label"> contract for wood.........</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">-1225.7189</data>
+<data key="y">-273.81647</data>
+</node>
+<node id="Moses McCord">
+<data key="label">Moses McCord</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">16.297792</data>
+<data key="y">-426.5323</data>
+</node>
+<node id="J. Robiard">
+<data key="label">J. Robiard</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">1263.0259</data>
+<data key="y">629.7733</data>
+</node>
+<node id="Jus. Wilson">
+<data key="label">Jus. Wilson</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">113.45496</data>
+<data key="y">-914.8068</data>
+</node>
+<node id="Fred Tippins">
+<data key="label">Fred Tippins</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">1270.2867</data>
+<data key="y">-440.05417</data>
+</node>
+<node id=" rebate and firewood........">
+<data key="label"> rebate and firewood........</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">1248.2172</data>
+<data key="y">-434.21716</data>
+</node>
+<node id="James Elliott">
+<data key="label">James Elliott</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">749.34644</data>
+<data key="y">664.3415</data>
+</node>
+<node id="Wm. Sturgeon">
+<data key="label">Wm. Sturgeon</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-1500.6163</data>
+<data key="y">1029.9219</data>
+</node>
+<node id=" lighting fires and sweeping">
+<data key="label"> lighting fires and sweeping</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">-1491.2496</data>
+<data key="y">1050.7404</data>
+</node>
+<node id="Wm. Smart">
+<data key="label">Wm. Smart</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">739.0983</data>
+<data key="y">215.16965</data>
+</node>
+<node id="B. Workman">
+<data key="label">B. Workman</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">1040.8573</data>
+<data key="y">243.64902</data>
+</node>
+<node id="Rev. Carey">
+<data key="label">Rev. Carey</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-1055.8804</data>
+<data key="y">-1480.413</data>
+</node>
+<node id="12 maps.................">
+<data key="label">12 maps.................</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">-1078.6536</data>
+<data key="y">-1478.8265</data>
+</node>
+<node id="Robt. Storey">
+<data key="label">Robt. Storey</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">263.95358</data>
+<data key="y">-1316.1865</data>
+</node>
+<node id=" 1 child under age..........">
+<data key="label"> 1 child under age..........</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">241.15247</data>
+<data key="y">-1315.0719</data>
+</node>
+<node id="R. H. Whiteside">
+<data key="label">R. H. Whiteside</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">645.2594</data>
+<data key="y">-1466.4089</data>
+</node>
+<node id=" deputy examiner.........">
+<data key="label"> deputy examiner.........</data>
+<data key="pageranks">0.014736329475283052</data>
+<data key="size">5.0</data>
+<data key="r">169</data>
+<data key="g">208</data>
+<data key="b">191</data>
+<data key="x">657.136</data>
+<data key="y">-1486.6956</data>
+</node>
+<node id="Robt. Strutt">
+<data key="label">Robt. Strutt</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-484.99557</data>
+<data key="y">35.302868</data>
+</node>
+<node id=" for sick child.............">
+<data key="label"> for sick child.............</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">-465.7989</data>
+<data key="y">47.655865</data>
+</node>
+<node id="R. \V. Hudgins">
+<data key="label">R. \V. Hudgins</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">669.4799</data>
+<data key="y">-1506.69</data>
+</node>
+<node id="G. Ardley">
+<data key="label">G. Ardley</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-42.091644</data>
+<data key="y">792.49414</data>
+</node>
+<node id="Miss Kirkwood">
+<data key="label">Miss Kirkwood</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">116.103676</data>
+<data key="y">21.151625</data>
+</node>
+<node id="Miss McFarlanc">
+<data key="label">Miss McFarlanc</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-1005.97595</data>
+<data key="y">89.495674</data>
+</node>
+<node id="&#9;“&#9;“&#9;.........">
+<data key="label">	“	“	.........</data>
+<data key="pageranks">0.019374889079142855</data>
+<data key="size">5.0</data>
+<data key="r">135</data>
+<data key="g">188</data>
+<data key="b">162</data>
+<data key="x">-1028.6931</data>
+<data key="y">81.28583</data>
+</node>
+<node id="Miss Steven">
+<data key="label">Miss Steven</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-53.91162</data>
+<data key="y">80.60413</data>
+</node>
+<node id="Miss Willetta Armstrong">
+<data key="label">Miss Willetta Armstrong</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-164.29611</data>
+<data key="y">58.397266</data>
+</node>
+<node id="Miss Jennie Currie">
+<data key="label">Miss Jennie Currie</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">229.16852</data>
+<data key="y">22.371979</data>
+</node>
+<node id="Miss Flora Currie">
+<data key="label">Miss Flora Currie</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-1026.3156</data>
+<data key="y">57.29541</data>
+</node>
+<node id=" Mance of contract........">
+<data key="label"> Mance of contract........</data>
+<data key="pageranks">0.00700539680218338</data>
+<data key="size">5.0</data>
+<data key="r">225</data>
+<data key="g">241</data>
+<data key="b">241</data>
+<data key="x">-46.32283</data>
+<data key="y">773.51953</data>
+</node>
+<node id="Jennie Armstrong">
+<data key="label">Jennie Armstrong</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">120.38405</data>
+<data key="y">-178.58922</data>
+</node>
+<node id="D. B. Stevenson">
+<data key="label">D. B. Stevenson</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">33.399563</data>
+<data key="y">-1926.9387</data>
+</node>
+<node id=" contract sweeping .......">
+<data key="label"> contract sweeping .......</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">55.827946</data>
+<data key="y">-1922.6833</data>
+</node>
+<node id="Miss Sly">
+<data key="label">Miss Sly</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-1047.6898</data>
+<data key="y">96.06561</data>
+</node>
+<node id="Miss Corrigan">
+<data key="label">Miss Corrigan</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">60.806686</data>
+<data key="y">53.90715</data>
+</node>
+<node id="A. and W. Elliott">
+<data key="label">A. and W. Elliott</data>
+<data key="pageranks">0.005459210267563446</data>
+<data key="size">5.0</data>
+<data key="r">237</data>
+<data key="g">248</data>
+<data key="b">251</data>
+<data key="x">-1468.7261</data>
+<data key="y">-984.3202</data>
+</node>
+<node id=" overcharge.............">
+<data key="label"> overcharge.............</data>
+<data key="pageranks">0.010097769871423249</data>
+<data key="size">5.0</data>
+<data key="r">203</data>
+<data key="g">228</data>
+<data key="b">221</data>
+<data key="x">-1486.9478</data>
+<data key="y">-998.07153</data>
+</node>
+<edge source="Mrs. John Richardson" target=" bal. sweeping">
+<data key="edgeid">0</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="M. Armstrong" target=" supplies...........">
+<data key="edgeid">1</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="ev" target=" over-charge one child...">
+<data key="edgeid">2</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Hudgins" target=" sweeping.............">
+<data key="edgeid">3</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Geo. Conic Mary A Frank Hughes John Palmer" target=" all claims.">
+<data key="edgeid">4</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="E. W. Hudgins" target=" auditor Win. Dean">
+<data key="edgeid">5</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Thus. Prendergast" target=" repairs.................">
+<data key="edgeid">6</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ellen Hobin" target=" bal. sweeping">
+<data key="edgeid">7</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="J. A. Cowan" target=" bill to date..................">
+<data key="edgeid">8</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="tic rge \llan" target=" sweeping.............">
+<data key="edgeid">9</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Miss Kirk" target="Telegram">
+<data key="edgeid">10</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Thomas ( ieorge Johnston" target=" firewood.....................">
+<data key="edgeid">11</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="James Wilson" target=" rebate over value............">
+<data key="edgeid">12</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Henry T. McDowell" target=" sweeping and firing----">
+<data key="edgeid">13</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Miss Harvey..........." target="1 Box of Crayons">
+<data key="edgeid">14</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Win. C. Belslier" target=" firewood.....................">
+<data key="edgeid">15</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Jas. Crick" target=" work on school No. 1............">
+<data key="edgeid">16</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Samuel Dale" target=" for pine.................">
+<data key="edgeid">17</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Mrs. Jas. Findley" target=" price of poker...........">
+<data key="edgeid">18</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Mrs. A. Pirazier" target=" exemption................">
+<data key="edgeid">19</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Mrs. Jas. Findley" target=" dusting">
+<data key="edgeid">20</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="G. F. Hudgins" target=" chalk and broom..............">
+<data key="edgeid">21</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="George H. Bradford" target=" 14 registers............">
+<data key="edgeid">22</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Rajph 11&quot;i tier" target=" rebate.....................">
+<data key="edgeid">23</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="F. Hudgins" target=" hill of sundries...;........">
+<data key="edgeid">24</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Wm. T. McDowell" target=" work on school No. 4-------">
+<data key="edgeid">25</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="George Hudgins" target=" sweeping and lighting tires at No.">
+<data key="edgeid">26</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="M. Armstrong" target=" bills">
+<data key="edgeid">27</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="George Hudgins" target=" une load of pine M. ">
+<data key="edgeid">28</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="M. Armstrong" target=" piling wood......">
+<data key="edgeid">29</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Robt. Smart" target=" repairs.................">
+<data key="edgeid">30</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Joseph Murphy" target=" repairs.................">
+<data key="edgeid">31</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="M. Armstrong" target=" 1 box crayons----">
+<data key="edgeid">32</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Mrs. Jas. Findley" target=" sweeping.............">
+<data key="edgeid">33</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="M. Armstrong" target=" repairs.................">
+<data key="edgeid">34</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Geo. Kennedy" target=" piling wood......">
+<data key="edgeid">35</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Mrs. A. Thomas" target=" sweeping.............">
+<data key="edgeid">36</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="R. Richardson" target=" for pine.................">
+<data key="edgeid">37</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="W. C. McDowell" target=" repairs.................">
+<data key="edgeid">38</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Mrs. Jas. Findley" target=" lighting tires......">
+<data key="edgeid">39</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="8. Smiley" target=" firewood.....................">
+<data key="edgeid">40</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="John Grant" target=" repairs.................">
+<data key="edgeid">41</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Robt. Telford" target=" f. *r latch and pane of glass..">
+<data key="edgeid">42</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="John Conley" target=" for lock....................">
+<data key="edgeid">43</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Mary Telford" target=" sweeping.............">
+<data key="edgeid">44</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Samuel Horner" target=" dry pine..................">
+<data key="edgeid">45</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="John G. Elliott" target=" for school sheds........">
+<data key="edgeid">46</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="J. Lester" target=" for mending poker.............">
+<data key="edgeid">47</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Geo. Wainman" target=" furnace for No. 1 school...">
+<data key="edgeid">48</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Jas. V Carson" target=" banking school............">
+<data key="edgeid">49</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="William Ernies" target=" note.....................">
+<data key="edgeid">50</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Robt. J. Wilson" target=" pine....................">
+<data key="edgeid">51</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Robt. Ralph" target=" piling wood......">
+<data key="edgeid">52</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Thus. Dean" target=" work.........................">
+<data key="edgeid">53</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Simon Bar her" target=" contract for wood.........">
+<data key="edgeid">54</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Moses McCord" target=" repairs.................">
+<data key="edgeid">55</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="J. Robiard" target=" firewood.....................">
+<data key="edgeid">56</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Jus. Wilson" target=" pine....................">
+<data key="edgeid">57</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Mrs. Jas. Findley" target=" sweeping.............">
+<data key="edgeid">58</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Mrs. A. Thomas" target=" sweeping.............">
+<data key="edgeid">59</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Fred Tippins" target=" rebate and firewood........">
+<data key="edgeid">60</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="James Elliott" target=" firewood.....................">
+<data key="edgeid">61</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Wm. Sturgeon" target=" lighting fires and sweeping">
+<data key="edgeid">62</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Wm. Smart" target=" firewood.....................">
+<data key="edgeid">63</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="B. Workman" target=" firewood.....................">
+<data key="edgeid">64</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Rev. Carey" target="12 maps.................">
+<data key="edgeid">65</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Robt. Storey" target=" 1 child under age..........">
+<data key="edgeid">66</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="R. H. Whiteside" target=" deputy examiner.........">
+<data key="edgeid">67</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Robt. Strutt" target=" for sick child.............">
+<data key="edgeid">68</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="R. \V. Hudgins" target=" deputy examiner.........">
+<data key="edgeid">69</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Mrs. Jas. Findley" target=" sweeping.............">
+<data key="edgeid">70</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="G. Ardley" target=" sweeping.............">
+<data key="edgeid">71</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="J. Robiard" target=" firewood.....................">
+<data key="edgeid">72</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Miss Kirkwood" target=" supplies...........">
+<data key="edgeid">73</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Miss McFarlanc" target="&#9;“&#9;“&#9;.........">
+<data key="edgeid">74</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Miss Steven" target=" supplies...........">
+<data key="edgeid">75</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Miss Willetta Armstrong" target=" supplies...........">
+<data key="edgeid">76</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Miss Jennie Currie" target=" supplies...........">
+<data key="edgeid">77</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Miss Flora Currie" target="&#9;“&#9;“&#9;.........">
+<data key="edgeid">78</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Mrs. A. Thomas" target=" Mance of contract........">
+<data key="edgeid">79</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Jennie Armstrong" target=" supplies...........">
+<data key="edgeid">80</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="D. B. Stevenson" target=" contract sweeping .......">
+<data key="edgeid">81</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Miss Sly" target="&#9;“&#9;“&#9;.........">
+<data key="edgeid">82</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="M. Armstrong" target=" supplies...........">
+<data key="edgeid">83</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Miss Corrigan" target=" supplies...........">
+<data key="edgeid">84</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Miss Willetta Armstrong" target=" supplies...........">
+<data key="edgeid">85</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="A. and W. Elliott" target=" overcharge.............">
+<data key="edgeid">86</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Miss Corrigan" target=" supplies...........">
+<data key="edgeid">87</data>
+<data key="weight">1.0</data>
+</edge>
+</graph>
+</graphml>
